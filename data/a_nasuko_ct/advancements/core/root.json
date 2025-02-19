@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "B.E.P Fairy Tech",
+        "description": "謎の技術によって作られた数々の品々",
+        "icon": {
+            "id": "minecraft:light_blue_shulker_box"
+        },
+        "background": "minecraft:textures/block/quartz_block_top.png",
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "test": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

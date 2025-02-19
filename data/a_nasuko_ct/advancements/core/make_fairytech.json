@@ -1,0 +1,15 @@
+{
+    "display": {
+        "title": "妖精の技術",
+        "description": "B.E.P Fairy Tech Crafterを作成する",
+        "icon": {
+            "id": "minecraft:feather"
+        }
+    },
+    "parent": "a_nasuko_ct:core/root",
+    "criteria": {
+        "test": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
